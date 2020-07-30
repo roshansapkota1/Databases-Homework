@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "first node app for most of us",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "migracode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
